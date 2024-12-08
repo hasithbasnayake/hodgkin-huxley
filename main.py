@@ -26,3 +26,5 @@ plt.plot(t, V, 'y')
 plt.show()
 
 print(Neuron)
+
+#Next, take advantage of Python classes and expand upon code for readability and clarity
